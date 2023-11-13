@@ -1,0 +1,27 @@
+/* put why i chose these colors here */
+#nav-link {
+  margin: 15px;
+  padding: 15px;
+  font-size: 20px;
+  text-decoration: none;
+}
+body {
+  background-color: rgb(235, 227, 213);
+}
+p {
+  font-size: 28px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a:hover {
+  color: white;
+  padding: 10px;
+  background-color: blue;
+  text-decoration: underline;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
